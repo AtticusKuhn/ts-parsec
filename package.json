@@ -1,0 +1,14 @@
+{
+  "name": "ts-parsec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "tsc && node dist/index.js",
+    "example": "tsc && node dist/example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
